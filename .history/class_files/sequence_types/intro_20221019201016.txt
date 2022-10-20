@@ -1,0 +1,6 @@
+                        What are sequences
+
+Indexing starting at 0
+slices include lower bound index, but exclude upper bound index
+
+
